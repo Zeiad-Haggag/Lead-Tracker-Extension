@@ -1,28 +1,31 @@
 # Lead Tracker
 
-Lead Tracker is a simple yet powerful Chrome extension designed to help you keep track of important messages and potential client leads. Whether you're a marketer looking to save client pages with a single click or just someone who wants to store notes while browsing, Lead Tracker has you covered.
+## Overview
 
-## Features:
+Lead Tracker is a simple and effective Chrome extension designed to help users save and track leads or notes across different browsing sessions. Whether you're browsing multiple tabs or working on potential client research, Lead Tracker allows you to quickly save important URLs or text entries for future reference.
 
-- **Save Important Messages**: Enter and save notes in the extension’s input field while navigating different tabs and pages.
-- **One-Click Lead Saving**: Save potential client pages with a single click, making it easy to revisit and manage later.
-- **User-Friendly Interface**: Simple and intuitive design for ease of use.
+## Features
 
-## How to Use:
+1. Save input messages to keep track of leads or notes.
+2. Save the URL of the current tab with a single click.
+3. Clear all saved messages and URLs at once using the "Delete All" button.
+4. User-friendly interface, perfect for marketers, researchers, or anyone needing to save and revisit content later.
 
-1. Add notes or messages in the input field.
-2. Click the "Save" button to store your input.
-3. Use the saved messages across different tabs without losing them.
-4. For marketers: Open any page of a potential client and save it with a click to revisit later.
+## How to Install
 
-## Tech Stack:
+1. Download or clone the repository.
+2. Open Chrome and navigate to `chrome://extensions/`.
+3. Enable "Developer mode" in the top right corner.
+4. Click "Load unpacked" and select the directory where the extension files are located.
+5. The extension should now appear in your browser's extension bar.
 
-- **HTML**: Structure of the extension.
-- **CSS**: Styling for a simple, clean user interface.
-- **JavaScript**: Core functionality for saving and retrieving messages.
+## How to Use
 
-This extension is currently in development and has not yet been uploaded to the Chrome Web Store.
+1. Open the extension by clicking the Lead Tracker icon in the toolbar.
+2. **To save a message**: Type your note in the input field and click "Save Input."
+3. **To save the current tab's URL**: Click the "Save Tab" button to store the URL of the active tab.
+4. **To delete all saved data**: Click the "Delete All" button to clear all saved messages and URLs.
 
-## screenshot
+## Screenshot
 
 ![Screenshot of My Chrome Extension](./assets/lead%20tracker%20chrome%20extension.png)
